@@ -1,0 +1,1 @@
+this project use the database from https://www.kaggle.com/datasets/ksabishek/product-sales-data
